@@ -16,10 +16,9 @@ Write information about who you suspect is using the cheat list 😌
 
 {
     "ValidLicenses": [
-        "license:242b7f25226f2a775a97857a793cbfd8b5ac1446",
-        "license:7d3806d706774128f110caa37595b19b32bc61b0",
-        "license:552a82f372ed60dbfb82df92e7a287c666fead4b",
-        "license:3f176bb2402f9b5a67ed38dee944460d6e5e567b"      
+        "license:",
+        "license:",
+        "license:"      
     ],
     "ValidDiscordIds": [
         "discord:",
