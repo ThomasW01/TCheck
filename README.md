@@ -1,16 +1,17 @@
 # TCheck
-FiveM Anti-Backdoor &amp; Anti-Cipher Panel, Operator License Check and Discord add data in list.json
+😊 FiveM Anti-Backdoor &amp; Anti-Cipher Panel, Operator License Check and Discord add data in list.json 👌
 
 
 TCheck 1.1.1 - Preview
 
 ![Screenshot (14)](https://github.com/ThomasW01/TCheck/assets/82104697/e4dc8e3f-0b1f-4376-8797-73ef5c1dad04)
+
 ![Screenshot (15)](https://github.com/ThomasW01/TCheck/assets/82104697/e78d4268-19cc-4e68-ab5a-493b587f6842)
 
 
-List.json 
+List.json 🙌
 
-Write information about who you suspect is using the cheat list
+Write information about who you suspect is using the cheat list 😌
 
 {
     "ValidLicenses": [
