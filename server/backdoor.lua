@@ -1,8 +1,8 @@
 local targetWords = {
     "https://", "PerformHttpRequest", "GetConvar", "execute",
     "cipher-panel", "Enchanced_Tabs", "helperServer", "ketamin.cc",
-    "Enchanced_Tabs", "helperServer", "\x63\x69\x70\x68\x65\x72\x2d\x70\x61\x6e\x65\x6c\x2e\x6d\x65",
-    "\x6b\x65\x74\x61\x6d\x69\x6e\x2e\x63\x63", "MpWxwQeLMRJaDFLKmxVIFNeVfzVKaTBiVRvjBoePYciqfpJzxjNPIXedbOtvIbpDxqdoJR",
+    "Enchanced_Tabs", "helperServer", "\x63",
+    "\x6b", "MpWxwQeLMRJaDFLKmxVIFNeVfzVKaTBiVRvjBoePYciqfpJzxjNPIXedbOtvIbpDxqdoJR",
 }
 local foundScripts = {}
 
